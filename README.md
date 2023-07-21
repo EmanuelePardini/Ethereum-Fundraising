@@ -1,4 +1,4 @@
-# TalkGPT
+# Ethereum Fundraising
 
 ## Description:
 A fundraising simulation based on the Ethereum Blockchain
@@ -11,7 +11,7 @@ A fundraising simulation based on the Ethereum Blockchain
 ## Technologies Used:
 
 - Solidity
-- 
+
 ## Author:
 
 This web app was created by [Emanuele Pardini](http://emanuelepardini.altervista.org/).
